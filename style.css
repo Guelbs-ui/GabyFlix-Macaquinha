@@ -1,0 +1,20 @@
+body {
+    color:white;
+    margin: 0px;
+    background:rgb(90, 202, 230); 
+    font-family: "Nerko One", cursive;
+}
+
+
+
+header{
+    border-bottom: solid 2px rgb(42, 122, 228);
+     padding: 20px;
+     background: black;
+}
+
+.gay {background: rgb(42, 122, 228);
+text-align: center;}
+
+.vídeo {margin: 30px; background: black;
+ text-align: center;}
